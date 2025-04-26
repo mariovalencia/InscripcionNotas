@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasEstudiantesAPI", "..\NotasEstudiantesAPI\NotasEstudiantesAPI\NotasEstudiantesAPI.csproj", "{08F23580-091F-4E25-925E-52EBFB155A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasEstudiantesWeb", "..\NotasEstudiantesWeb\NotasEstudiantesWeb\NotasEstudiantesWeb.csproj", "{7428F449-38C6-4A4C-BE1D-0A54FD917B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F23580-091F-4E25-925E-52EBFB155A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F23580-091F-4E25-925E-52EBFB155A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F23580-091F-4E25-925E-52EBFB155A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F23580-091F-4E25-925E-52EBFB155A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7428F449-38C6-4A4C-BE1D-0A54FD917B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7428F449-38C6-4A4C-BE1D-0A54FD917B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7428F449-38C6-4A4C-BE1D-0A54FD917B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7428F449-38C6-4A4C-BE1D-0A54FD917B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60AF1D93-EA39-432A-BC15-34CA599A0B56}
+	EndGlobalSection
+EndGlobal
